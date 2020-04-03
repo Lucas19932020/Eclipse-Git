@@ -10,7 +10,7 @@ public class Hellogit {
 		
 		System.out.println("HELLO GIT - MODIFICADO NO ECLIPSE...");
 		
-		System.out.println("OLÁ Mundi!");
+		System.out.println("OLÁ Mundo!");
 
 	}
 
